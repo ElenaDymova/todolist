@@ -1,0 +1,32 @@
+.tasks {
+  margin: 2rem auto;
+  width: 90%;
+  max-width: 50rem;
+}
+
+.tasks ul {
+  list-style: none;
+  padding: 1.5rem;
+}
+
+.tasks li {
+  border: 1px solid #ccc;
+  margin: 0.5rem 0;
+  padding: 0.5rem;
+  background-color: #00358b;
+  color: white;
+}
+
+.taskName {
+  font-weight: bold;
+  margin: 0;
+  padding: 0;
+  padding-bottom: 10px;
+  font-size: 18px;
+}
+
+.taskComment {
+  margin: 0;
+  padding: 0;
+  font-size: 14px;
+}
